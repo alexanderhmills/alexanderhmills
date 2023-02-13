@@ -1,7 +1,7 @@
 # Hi, I'm Alex! 👋
 
 **# Skills**
-<p aligh="center">
+<p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" />
@@ -26,8 +26,11 @@
 </p>
 
 **# 📊 GitHub Stats**:
+
+<p align="center">
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=alexanderhmills&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexanderhmills&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexanderhmills&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</p>
+	
 ![Snake animation](https://github.com/reactmatz/reactmatz/blob/output/github-contribution-grid-snake.svg)
