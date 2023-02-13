@@ -27,10 +27,18 @@
 
 **# 📊 GitHub Stats**:
 
-<p align="center">
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=alexanderhmills&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexanderhmills&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexanderhmills&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+<center>
+  <table>
+    <tr>
+        <td>
+          <img width="400px" align="center" 
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderhmills&hide=html,makefile,vhdl,c,qmake&langs_count=6&layout=compact&theme=dracula" />
+      	</td>
+      	<td>
+          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderhmills&show_icons=true&count_private=true&theme=dracula" />
+      	</td>
+    </tr>   
+  </table>
+</center>
 	
 ![Snake animation](https://github.com/reactmatz/reactmatz/blob/output/github-contribution-grid-snake.svg)
